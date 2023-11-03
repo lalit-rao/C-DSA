@@ -1,0 +1,3 @@
+C:/Users/lalit/CLionProjects/C-DSA/cmake-build-debug/CMakeFiles/C_DSA.dir
+C:/Users/lalit/CLionProjects/C-DSA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lalit/CLionProjects/C-DSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
